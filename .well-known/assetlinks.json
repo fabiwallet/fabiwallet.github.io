@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : {
     "namespace": "Fabi",
-    "package_name": "io.github.fabiwallet",
+    "package_name": "com.fabi",
     "sha256_cert_fingerprints": ["2F:92:A9:A5:BF:5C:ED:A7:0D:33:48:56:7F:90:E9:1B:AF:7E:3D:74:C0:1D:32:41:C2:13:D1:F4:4F:75:D7:6B"]
   }
 }]
